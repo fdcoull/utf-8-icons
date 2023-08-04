@@ -1,0 +1,38 @@
+.utf-8 {
+    display: inline-block;
+}
+
+.utf-8-home {&:before {content: "\2617";}}
+.utf-8-plus {&:before {content: "\2295";}}
+.utf-8-minus {&:before {content: "\2296";}}
+.utf-8-menu {&:before {content: "\2630";}}
+.utf-8-refresh {&:before {content: "\21BB";}}
+.utf-8-warning {&:before {content: "\26A0";}}
+.utf-8-denied {&:before {content: "\2298";}}
+.utf-8-copyright {&:before {content: "\00A9";}}
+.utf-8-registered {&:before {content: "\00AE";}}
+.utf-8-trademark {&:before {content: "\2122";}}
+.utf-8-tick {&:before {content: "\2713";}}
+.utf-8-cross {&:before {content: "\2717";}}
+.utf-8-bullet-point {&:before {content:"\2022";}}
+.utf-8-bullet-arrow {&:before {content:"\27A4";}}
+.utf-8-mail {&:before {content: "\1F583";}}
+.utf-8-heart {&:before {content: "\2764";}}
+.utf-8-star-filled {&:before {content: "\2605";}}
+.utf-8-star-unfilled {&:before {content: "\2606";}}
+.utf-8-arrow-up {&:before {content: "\2B06";}}
+.utf-8-arrow-down {&:before {content: "\2B07";}}
+.utf-8-gear {&:before {content: "\2699";}}
+.utf-8-info {&:before {content: "\2139";}}
+.utf-8-keyboard {&:before {content: "\2328";}}
+.utf-8-send {&:before {content: "\2332";}}
+.utf-8-pause {&:before {content: "\23F8";}}
+.utf-8-play {&:before {content: "\23F5";}}
+.utf-8-play-pause {&:before {content: "\23EF";}}
+.utf-8-stop {&:before {content: "\23F9";}}
+.utf-8-skip-back {&:before {content: "\23EE";}}
+.utf-8-skip-forward {&:before {content: "\23ED";}}
+.utf-8-record {&:before {content: "\23FA";}}
+.utf-8-power {&:before {content: "\23FB";}}
+.utf-8-night {&:before {content: "\23FE";}}
+.utf-8-day {&:before {content: "\2600";}}
